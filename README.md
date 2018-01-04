@@ -1,7 +1,7 @@
 # Drinking-Network
 
 
-I have implemented Drinking Network system has been represented as graph. Node in the network is represented by the graph's node/vertices and all pipes and valves of the network represnt the edges.
+I have implemented Drinking Network system as graph. Node in the network is represented by the graph's node/vertices and all pipes and valves of the network represnt the edges.
 
 Each node has a name and the pipe and valve connecting the nodes has a Pipe ID and Valve ID respectively. We are provided with excel sheets with sheet1) contains pipe ID and there corresponding connecting node and sheet2)contains pipe ID and there corresponding connecting node. The example of the sheet in shown below:
 
